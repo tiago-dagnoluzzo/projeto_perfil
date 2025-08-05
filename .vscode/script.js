@@ -10,11 +10,9 @@ function toggleMode() {
   } else {
     img.setAttribute('src', './assets/avatar.png')
   }  
-
   //pegar a tag img
   //se tiver light mode, add a img light
   //se não, manter a imagem normal
   //substituir a imagem
-
 }
   
